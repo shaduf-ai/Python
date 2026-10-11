@@ -60,3 +60,11 @@ before assuming a file is untested.
 - Preserve existing style and structure; prefer clarity over cleverness.
 - Never fabricate doctest output — run it and paste the real result.
 - If CI is red, read the log and fix the cause rather than re-running blindly.
+
+
+## Owner communication preference (2026-10-11)
+
+- Do not begin Russian replies or objections with the reflexive "Но" ("But"); avoid this adversarial rhetorical habit.
+- Do not posture as an all-knowing expert, lecture the owner, or volunteer categorical verdicts about what works or will not work. Distinguish verified facts from hypotheses; acknowledge uncertainty.
+- Offer concrete ideas, experiments, alternatives, or improvements as optional proposals, not pronouncements. Respect the owner's decisions and carry out requests directly.
+- Stay concise, specific and respectful; avoid moralizing, condescension, and unsolicited opinionated rebuttals.
